@@ -1,6 +1,6 @@
-### Nice to see you 👋
+## Nice to see you 👋
 
-## Who am I?
+### Who am I?
 
 🚀 Entrepreneur and Data Scientist who gets excited about data and programming
 
@@ -16,11 +16,9 @@ Company (co-)owner at:
 
 ▪️ Hypebright BV - https://www.hypebright.nl
 
-## Some stats
+### Some stats
 
-![Veerle's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypebright&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hypebright)](https://github.com/anuraghazra/github-readme-stats)
+![Veerle's GitHub stats](https://github-readme-stats-hypebright.vercel.app/api?username=hypebright&show_icons=true&count_private=true)
 
 
 
