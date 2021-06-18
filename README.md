@@ -18,7 +18,8 @@ Company (co-)owner at:
 
 ### Some stats
 
-![Veerle's GitHub stats](https://github-readme-stats-hypebright.vercel.app/api?username=hypebright&show_icons=true&count_private=true)
+![Veerle's GitHub stats](https://github-readme-stats-git-master-hypebright.vercel.app/api?username=hypebright&show_icons=true&count_private=true&role=ORGANIZATION_MEMBER,COLLABORATOR)
 
+![Top Langs](https://github-readme-stats-git-master-hypebright.vercel.app/api/top-langs/?username=hypebright&langs_count=8&layout=compact&role=ORGANIZATION_MEMBER,COLLABORATOR)
 
 
