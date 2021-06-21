@@ -20,8 +20,8 @@ Company (co-)owner at:
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/hypebright/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/hypebright/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/hypebright/github-stats/blob/6bcc3e3467fbc2b1aaae79369698dabd13c5e175/generated/overview.svg)
+![](https://github.com/hypebright/github-stats/blob/6bcc3e3467fbc2b1aaae79369698dabd13c5e175/generated/languages.svg)
 
 </a>
 
