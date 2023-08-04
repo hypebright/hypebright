@@ -6,7 +6,7 @@
 
 Fullstack and R developer with a Master's Degree in Data Science and multiple years of experience in bringing Data Science to the healthcare market- on both the development and business side
 
-💚 On a mission to accelerate innovation in healthcare by using the power of data
+💙 On a mission to show you the potential of R and Shiny ✨ 
 
 ⚡️Favorite things to do: web application development, building machine learning and ETL pipelines, learning to be a Linux server admin, mentoring Data Scientists to be, and enabling other companies to leverage their data in innovative ways
 
