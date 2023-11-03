@@ -10,9 +10,7 @@ Fullstack and R developer with a Master's Degree in Data Science and multiple ye
 
 ⚡️Favorite things to do: web application development, building machine learning and ETL pipelines, learning to be a Linux server admin, mentoring Data Scientists to be, and enabling other companies to leverage their data in innovative ways
 
-Company (co-)owner at:
-
-▪️ Analytic Health Ltd - https://analytichealth.co.uk
+Company owner at:
 
 ▪️ Hypebright BV - https://www.hypebright.nl
 
